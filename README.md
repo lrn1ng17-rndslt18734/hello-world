@@ -1,5 +1,5 @@
 # hello-world
-This is my first repo.
+This is my first repo.\
 *This is gonna be itallic.*
 
 ## Some list
@@ -10,9 +10,9 @@ This is my first repo.
 
 ### Addin' some quotes
 > The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. 
-- Brian Kernighan
+Brian Kernighan
  
-## Try a table
+## Table
 Header1 | Header2 | Header3
 ---|---|---|
 Item1 | Item2 | Item3
